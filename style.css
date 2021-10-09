@@ -1,0 +1,309 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Open Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+}
+
+/* ----------------------------- Header -------------------------------------- */
+
+
+#header{
+    background: linear-gradient(90deg,#00c4cc,#7d2ae8);
+    height: 75px;
+}
+
+#header span{
+    color: #fff;
+    padding-left: 5px;
+    line-height: 75px;
+    font-size: 25px;
+}
+
+#header img{
+    width: 50px;
+    padding-left: 5px;
+    margin-top: -15px;
+}
+
+#header ul li{
+    list-style: none;
+	float: right;
+}
+
+#closeroom{
+    border-radius: 4px;
+    border: 2px solid transparent;
+    width: 150px;
+    height: 40px;
+    color: #0e1318;
+    line-height: 0px;
+    font-weight: 600;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+
+#invite{
+    background: #ffc800;
+    border-radius: 4px;
+    border: 2px solid transparent;
+    width: 120px;
+    height: 40px;
+    color: #000;
+    line-height: 0px;
+    font-weight: 600;
+    margin-top: 17px;
+
+
+}
+/* ----------------------------- Header -------------------------------------- */
+
+
+
+
+
+
+/* ----------------------------- Body -------------------------------------- */
+
+#mainpart{
+    min-height: 700px;
+}
+
+#divLeft{
+    background: #293039;
+    min-height: 700px;
+    
+}
+
+#users h3{
+    font-size: 25px;
+    color: #fff;
+    padding: 20px 0 10px 0;
+}
+
+#divUsers h4{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.userbox {  
+    padding: 10px;
+    width: 100%;
+    float: left;
+}
+
+.userbox video {
+    display: inline-block;
+    border: 0px solid red;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    background: #6F7680;
+}
+
+
+
+
+
+
+
+#divCenter{
+    background: #F7FAFF;
+    min-height: 700px;
+    
+}
+
+#divCenter h3{
+    font-size: 25px;
+    color: #000;
+    padding: 00px 0 5px 0;
+}
+
+#mainvideo{
+    width: 100%;
+    height: 600px;
+}
+
+
+
+#controls{
+    margin: 20px 0 20px 0;
+    width: 100%;
+    height: auto;
+    background:none;
+}
+.toolbox{
+    margin-top: 14px;
+}
+.toolbox button{
+    margin: 5px;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+#divRight{
+    background: #F3F5F7;
+    min-height: 700px;
+    
+}
+
+#divRight h3{
+    font-size: 25px;
+    color: #000;
+    padding: 20px 0 15px 0;
+    
+}
+
+#msgbox{
+    width: 80%;
+    min-height: 100px;
+    float: left;
+    border: 1px solid #E2E0E0;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+#btnsend{
+    width: 19%;
+    min-height: 50px;
+    float:right;
+    border: none;
+    background: #F3F5F7;
+    outline: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#divHeader{
+    background: #2b2d30;
+    width: 100%;
+    min-width: 100px;
+}
+
+#divHeader ul li a{
+    font-size: 12px;
+	text-decoration: none;
+	color: #ffffff;
+	text-transform: uppercase;
+	background-color: transparent;
+	line-height: 25px;
+	text-align: left;
+	white-space: nowrap;
+	cursor: pointer;
+	-webkit-text-size-adjust: none;	
+}
+
+#divHeader ul li{
+    list-style: none;
+	float: left;
+	padding: 0 17px;
+}
+
+#divHeader ul{
+    float: right;
+}
+
+
+  
+#divLeft{
+    background: #4fbdaa;
+    width: 20%;
+    min-height: 600px;
+    float: left;
+}
+  
+#divCenter{
+    background: #abc974;
+    width: 60%;
+    min-height: 600px;
+    float: left;
+}
+  
+ #divRight{
+    background: #4fbdaa;
+    width: 20%;
+    min-height: 600px;
+    float: left;
+}
+
+.userbox {
+    margin-left: 20px;
+    padding: 8px;
+    width: 450px;
+  
+    border: 1px solid transparent;
+    color: var(--fc-medium);
+    border-color: var(--powder-400);
+    background-color: rgb(113, 223, 195);
+    float: left;
+}
+
+.userbox video {
+    display: inline-block;
+    border: 1px solid red;
+    margin: 0;
+    padding: 0;
+    width: 450px;
+    height: 300px;
+}
+
+
+#myName{
+    width: 100%;
+    height: 100px;
+    background: lightcoral;
+}
+
+#controls{
+    width: 100%;
+    height: 100px;
+    background: lightcoral;
+}
+
+
+#msgbox{
+    width: 70%;
+    min-height: 50px;
+    float: left;
+}
+
+#btnsend{
+    width: 19%;
+    min-height: 50px;
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+
